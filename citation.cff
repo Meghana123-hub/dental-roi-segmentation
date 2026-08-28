@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: "Dental ROI Segmentation Using a Context-Aware FiLM-Modulated U-Net"
+message: "If you use this software in your research, please cite the associated research article."
+type: software
+
+authors:
+  - family-names: "Darla"
+    given-names: "Meghana"
+    orcid: "0009-0009-8647-965X"
+
+version: "1.0.0"
+date-released: "2026-08-28"
+
+repository-code: "https://github.com/Meghana123-hub/dental-roi-segmentation.git"
+
+keywords:
+  - dental caries
+  - intraoral periapical radiographs
+  - image segmentation
+  - U-Net
+  - FiLM
+  - TinyResNetContext
+  - deep learning
+
+license: "MIT"
